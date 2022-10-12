@@ -8,10 +8,6 @@
   $: iconWidth = 50;
 </script>
 
-<svelte:head>
-  <title>Sefa fanoldal</title>
-</svelte:head>
-
 <div class="h-full w-full relative">
   <div
     class="w-[70%] max-w-3xl h-full absolute left-1/2 -translate-x-1/2 bg-[#ceecb4] flex flex-col items-center"
